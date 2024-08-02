@@ -1,0 +1,13 @@
+mainMenuPrompt^ Enter selection for Main Menu:
+invalidNumMessage^Invalid number! Please enter a number from 1 to 3.
+purchMenuPrompt^ Enter selection for Purchase Menu: 
+thankYouMessage^Thank you for using our vending machine!
+comeBackSoonMessage^    Come Back anytime for a treat!
+unknownErrorMessage^Our apologies, an unknown problem has occurred machine restarting
+enterSlotMessage^ Enter the slot number of the product you would like: 
+outOfStockMessage^\n We apologize the item is out of stock, \n \n Please make another selection.
+insufficientFundsMessage^ We apologize, there is not enough money fed to cover that snack. Please feed more money first.
+invalidSlotMessage^Invalid slot location. Please try again.
+feedMachine^Enter how much money you wish to feed into the machine in a whole dollar amount: 
+feedQuantityErrorMessage^Please feed a monetary amount that is a positive value... try again
+notWholeDollarError^Our apologies, you may not have entered a whole dollar amount, please try again.

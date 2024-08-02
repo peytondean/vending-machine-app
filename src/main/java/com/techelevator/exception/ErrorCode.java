@@ -1,0 +1,8 @@
+package com.techelevator.exception;
+
+public enum ErrorCode {
+    LOG_FILE_PATH_INVALID,
+    LOG_WRITER_CLOSING_ON_NULL_PTR,
+    SALES_REPORT_FAILED_TO_CREATE_WITH_NAME_GIVEN,
+    INVALID_SNACK_CREATION_ATTEMPT
+}
